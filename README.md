@@ -17,4 +17,4 @@ https://prictab.netlify.app/
 
 ## Tela Inicial
 
-<img src="assets/img/pricing-table.png">
+<img src=".github/pricing-table.png">
